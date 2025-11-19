@@ -423,62 +423,6 @@
             "style": {
                 "type": "list"
             }
-        },
-        {
-            "key": "WexTJso",
-            "name": "🎠TJ┃综合🎠",
-            "type": 3,
-            "api": "csp_WexTJsoGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "Wextyso",
-            "name": "🎠给力┃天逸🎠",
-            "type": 3,
-            "api": "csp_WextysoGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "WexbaidusoGuard",
-            "name": "🎠给力┃百度🎠",
-            "type": 3,
-            "api": "csp_WexbaidusoGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "WexAiPanGuard",
-            "name": "🎠给力┃综合🎠",
-            "type": 3,
-            "api": "csp_WexAiPanGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "WexHaiYinsoGuard",
-            "name": "🎠海音┃综合🎠",
-            "type": 3,
-            "api": "csp_WexHaiYinsoGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "WexZhaoPansoGuard",
-            "name": "🎠找盘┃综合🎠",
-            "type": 3,
-            "api": "csp_WexZhaoPansoGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "push_agent",
-            "name": "推送",
-            "type": 3,
-            "api": "csp_PushGuard",
-            "searchable": 1,
-            "changeable": 0
         }
     ],
     "parses": [
