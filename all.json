@@ -1,24 +1,20 @@
 {
     "urls": [
         {
-            "name": "jack老师",
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/HikuHiku/tvbox/main/jack老师.json"
-        },
-        {
-            "name": "南风",
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/HikuHiku/tvbox/main/南风.json"
-        },
-        {
-            "name": "巧技",
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/HikuHiku/tvbox/main/巧技.json"
-        },
-        {
             "name": "王二小",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/HikuHiku/tvbox/main/王二小.json"
         },
         {
             "name": "饭太硬",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/HikuHiku/tvbox/main/饭太硬.json"
+        },
+        {
+            "name": "jack老师",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/HikuHiku/tvbox/main/jack老师.json"
+        },
+        {
+            "name": "巧技",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/HikuHiku/tvbox/main/巧技.json"
         }
     ]
 }
