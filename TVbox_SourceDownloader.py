@@ -11,6 +11,7 @@ from urllib3.exceptions import InsecureRequestWarning
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 AllSource = []
+Success = 0
 class TvboxDownloader:
     def __init__(self, my_repo, source_url, output_dir=Path("tvbox_output"), source_name="default", remove_list=[]):
         self.my_repo = my_repo
@@ -146,6 +147,11 @@ class TvboxDownloader:
         print(f"源地址: {self.source_url}")
         print(f"{'='*60}\n")
         
+        AllSource.append({
+            "name": self.source_name,
+            "url": f"{self.my_repo}/{self.source_name}.json"
+        })
+        
         # 1. 下载并解析线路 JSON
         line_data = self.fetch_json(self.source_url)
         if not line_data:
@@ -169,6 +175,8 @@ class TvboxDownloader:
             jar_path = self.jar_dir / jar_name
             
             if self.download_file(spider_url, jar_path):
+                global Success
+                Success+=1
                 line_data['spider'] = f"{self.my_repo}/jar/{jar_name}"
         else:
             print("⚠ 未找到 spider 字段，跳过 jar 下载\n")
@@ -177,25 +185,20 @@ class TvboxDownloader:
         json_path = self.output_dir / f"{self.source_name}.json"
         with open(json_path, 'w', encoding='utf-8') as f:
             json.dump(line_data, f, ensure_ascii=False, indent=4)
-        
+
         print(f"\n✓ 线路 JSON 已保存: {json_path}")
         print(f"{'='*60}")
         print(f"完成！文件在: {self.output_dir.absolute()}")
         print(f"{'='*60}")
-        AllSource.append({
-            "name": self.source_name,
-            "url": f"{self.my_repo}/{self.source_name}.json"
-        })
 
 if __name__ == '__main__':
-    # 这里填写你的仓库地址，镜像源可以随便换你想用的，或者可以直连github就直接去掉镜像
-    MY_REPO = "https://gh-proxy.com/https://raw.githubusercontent.com/YOUR_NAME/tvbox/main"
-    # 这里填写下载配置文件的地址，该脚本将会把线路的json和jar文件下载至你的电脑硬盘中
-    OUTPUT_DIR = Path("D:/TvboxSource")
+    MY_REPO = "https://gh-proxy.com/https://raw.githubusercontent.com/YOUR_USERNAME/tvbox/main"
+    OUTPUT_DIR = Path("D:/YOUR_OUTPUT_PATH")
+    AllSource.append({
+        "name": "默认",
+        "url": f"{MY_REPO}/默认.json"
+    })
     
-    # 这里填写你要下载的线路信息，REMOVE_LIST用于匹配并删除包含这些关键词的站点
-    # 比方说我不喜欢用各种网盘，想把那些用不到的各类网盘站点去掉，那么在REMOVE_LIST中填入'4K'即可去掉大部分网盘站点
-    # 该脚本仅支持下载单仓线路，且没有增加其它功能的打算，下载后自行push到你的仓库即可
     Sources = [
         {
             "SOURCE_NAME": "王二小",
@@ -234,3 +237,7 @@ if __name__ == '__main__':
     with open(all_path, 'w', encoding='utf-8') as f:
         json.dump(Alljson, f, ensure_ascii=False, indent=4)
         print(f"✓ 配置 JSON 已保存: {all_path}")
+    if len(Sources) == Success:
+        print(f"✓ 任务全部完成！[{Success}/{len(Sources)}]")
+    else:
+        print(f"✗ 存在失败任务！[{Success}/{len(Sources)}]")
