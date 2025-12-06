@@ -1,7 +1,7 @@
 {
     "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/HikuHiku/tvbox/main/jar/jack老师.jar",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
-    "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720314090387/ol.txt",
+    "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/ACB34B_773_photo_2022-09-14_00-00-57_20251204145106336newMediaImage.jpg",
     "sites": [
         {
             "key": "豆瓣",
@@ -286,6 +286,17 @@
             "timeout": 10
         },
         {
+            "key": "盒马短剧",
+            "name": "🦓盒马┃短剧",
+            "type": 3,
+            "api": "csp_HeMaGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "timeout": 10
+        },
+        {
             "key": "星芽短剧",
             "name": "💖星芽┃短剧",
             "type": 3,
@@ -429,7 +440,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/dXwud0cD.bmp"
+                "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/32EF375_773_bilisejy_20251204150311837newMediaFile.bmp"
             }
         },
         {
@@ -445,7 +456,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/KQ75Lxp5.bmp"
+                "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3753221_773_bilixxkt_20251204150347660newMediaFile.bmp"
             }
         },
         {
@@ -461,7 +472,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/43ZKwmf_.bmp"
+                "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3ED04A6_773_biliczkt_20251204150157889newMediaFile.bmp"
             }
         },
         {
@@ -477,7 +488,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://fs-im-kefu.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/mf6984kQ.bmp"
+                "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/531DD35_773_biligzkt_20251204150243460newMediaFile.bmp"
             }
         },
         {
@@ -649,7 +660,7 @@
         {
             "name": "江苏移动",
             "type": 0,
-            "url": "http://127.0.0.1:9978/proxy?do=live&url=https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1744201662209/jjssyydd.txt",
+            "url": "http://127.0.0.1:9978/proxy?do=live&url=https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/529EAA1_773_jsyd_20251205182514164newMediaFile.bmp",
             "playerType": 2,
             "timeout": 10
         },
