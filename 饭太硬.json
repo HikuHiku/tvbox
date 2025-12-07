@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "豆豆",
-            "name": "关注新公众号【太太太硬了】防失联",
+            "name": "强化过滤广告，新公众号【太太太硬了】",
             "type": 3,
             "api": "csp_DouDouGuard",
             "indexs": 1,
