@@ -19,6 +19,10 @@
         {
             "name": "jack老师",
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/HikuHiku/tvbox/main/jack老师.json"
+        },
+        {
+            "name": "小米",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/HikuHiku/tvbox/main/小米.json"
         }
     ]
 }
