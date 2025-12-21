@@ -43,14 +43,6 @@
             "ext": "7lj763gg402i7942476492jlg94li29kk6gi8448ij"
         },
         {
-            "key": "追剧",
-            "name": "追剧┃App",
-            "type": 3,
-            "api": "csp_TTian",
-            "playerType": 2,
-            "ext": "7lj763gg0939791h1l2681i6g94li291li"
-        },
-        {
             "key": "剧评",
             "name": "剧评┃App",
             "type": 3,
@@ -104,7 +96,7 @@
             "type": 3,
             "api": "csp_Qiji",
             "playerType": 2,
-            "ext": "7lj763gg402i7942503399j2g04i989jhig7j94k818g326i51491kljlk134k401g9g54gk8j5i9097751kh28kh9kj12h4hk746i4gl8g1illj77j76kg27igi5k44lkl6i6l0g76h317i9k136k06i3k4497576h5lh6g75h7j2llj5j9"
+            "ext": "7lj763gg402i794240208hi3g05l8181higgi609i7i73l224k141jg1lh405k0g49i60kh6ih53i6ji6g01k885g4lk4lk2l432240jk5k1igg97kj421g03lll"
         },
         {
             "key": "主角",
@@ -136,7 +128,7 @@
             "type": 3,
             "api": "csp_Qiji",
             "playerType": 2,
-            "ext": "7lj763gg402i7942563l9jjigg56i1i3g1l9930k9gjj6h75040l18likg595g1k569148h69655898i3408l38kklkj1hkhll757010k7hji6h321902gli21h95554k6l4i3lhg275722k9i436l56i5l3103677gjl96l7kh2iilij38828l26h48173731i03hghk319"
+            "ext": "7lj763gg0939795l007hi482k508i2i0g0k69h089lj36579051707k0li150k1g0gil50gk9342i193620lg49lk5l91gh2k4712j53ljh9jhgk31ji2lkg73lk1j12"
         },
         {
             "key": "星河",
@@ -144,7 +136,7 @@
             "type": 3,
             "api": "csp_Qiji",
             "playerType": 2,
-            "ext": "7lj763gg402i7942552h8ljjlj0jjki7g4lg99099jjh6l6l514k08hjl807161j139753h090539gig3604gi80lgl30jk3hk637h53gh9ljkij2lig30k277g50354k2k3jkl1g17i2820ii582l0483g61k6i79k7kk7274h1i5g6jjj833h2390k42396hik71kigl18k615"
+            "ext": "7lj763gg0939795i007ki485k612jli3hil9990l96j86i79025j08k7l8055g1h1i834kg3i900i0j06k4hg190k2lj0gk6k567614jl0k399gl72j06hkl3ilj1l"
         },
         {
             "key": "时常",
@@ -152,7 +144,7 @@
             "type": 3,
             "api": "csp_Qiji",
             "playerType": 2,
-            "ext": "7lj763gg402i79425j2h84igh9528h9gk8k6i54kjli43l2l1l491gljlk0j53010kj85ihh914h868g380kl380l9l157khl16k6j57kgh5j3l13lih29kh7hh14k41g3g3i0l2g074232hig1h380ji2l2546573k8gk6i77h0ijgjj6jk70g5304l1673329575"
+            "ext": "7lj763gg0939791i5820839jhg498h93ljh9i353ihi73l2k5l5j48g4l21j035j01850ig6i904998l6j09g1j0g1l712hlg37g670ll5k39jl62jj329kl3ilj1l"
         },
         {
             "key": "优质",
