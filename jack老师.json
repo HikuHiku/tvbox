@@ -95,21 +95,6 @@
             "timeout": 10
         },
         {
-            "key": "浪酷弹幕版",
-            "name": "👓浪酷┃弹幕",
-            "type": 3,
-            "api": "csp_TianTianGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true,
-                "site": 2
-            },
-            "timeout": 10
-        },
-        {
             "key": "小苹果弹幕版",
             "name": "🍎苹果┃弹幕",
             "type": 3,
@@ -152,10 +137,24 @@
             "timeout": 10
         },
         {
-            "key": "咖啡弹幕版",
-            "name": "🍫咖啡┃弹幕",
+            "key": "鲸鱼弹幕版",
+            "name": "🐳鲸鱼┃弹幕",
             "type": 3,
-            "api": "csp_KaFeiGuard",
+            "api": "csp_JingYuGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "timeout": 10
+        },
+        {
+            "key": "小猪弹幕版",
+            "name": "🐖小猪┃弹幕",
+            "type": 3,
+            "api": "csp_XiaoZhuGuard",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
@@ -190,6 +189,66 @@
             "filterable": 1,
             "ext": {
                 "danmu": true
+            },
+            "timeout": 10
+        },
+        {
+            "key": "吉米弹幕版",
+            "name": "🍙吉米┃弹幕",
+            "type": 3,
+            "api": "csp_AppFoxGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "ext": {
+                "danmu": true,
+                "siteUrl": "http://45.207.215.137:8006"
+            },
+            "timeout": 10
+        },
+        {
+            "key": "恋鱼弹幕版",
+            "name": "🐟恋鱼┃弹幕",
+            "type": 3,
+            "api": "csp_AppFoxGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "ext": {
+                "danmu": true,
+                "siteFrom": "https://173220859-1333208043.cos.ap-shanghai.myqcloud.com/1.json"
+            },
+            "timeout": 10
+        },
+        {
+            "key": "麒麟弹幕版",
+            "name": "🐓麒麟┃弹幕",
+            "type": 3,
+            "api": "csp_AppFoxGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "ext": {
+                "danmu": true,
+                "siteUrl": "https://www.70yyw.cc"
+            },
+            "timeout": 10
+        },
+        {
+            "key": "木瓜弹幕版",
+            "name": "🥑木瓜┃弹幕",
+            "type": 3,
+            "api": "csp_AppFoxGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "ext": {
+                "danmu": true,
+                "siteUrl": "http://www.yezitv.top"
             },
             "timeout": 10
         },
