@@ -88,58 +88,6 @@
             "changeable": 1
         },
         {
-            "key": "新6V",
-            "name": "🛩️新6V┃P2P🛩",
-            "type": 3,
-            "api": "csp_WexXb6vGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
-            "key": "WexNewDouYu",
-            "name": "🐳斗鱼┃直播🐳",
-            "type": 3,
-            "api": "csp_WexNewDouYuGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Wexlaobaitingshu",
-            "name": "🎃‍白兔┃听书🎃",
-            "type": 3,
-            "api": "csp_WexlaobaitingshuGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Wex275tingshu",
-            "name": "🎃‍极品┃听书🎃",
-            "type": 3,
-            "api": "csp_Wex275tingshuGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "Wexliyuan",
-            "name": "🎎戏曲┃秒播🎎",
-            "type": 3,
-            "api": "csp_WexliyuanGuard",
-            "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 2
-            }
-        },
-        {
-            "key": "Iktv",
-            "name": "🎤KTV┃音乐🎤",
-            "type": 3,
-            "api": "csp_WexIktvGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
             "key": "Wexxifan",
             "name": "🤡稀饭┃动漫🤡",
             "type": 3,
@@ -164,53 +112,12 @@
             "changeable": 1
         },
         {
-            "key": "自定义",
-            "name": "🥇全能┃DIY🥇",
-            "type": 3,
-            "api": "csp_WexdiyGuard",
-            "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "AList",
-            "name": "🥇Alist┃DIY🥇",
-            "type": 3,
-            "api": "csp_AListGuard",
-            "searchable": 1,
-            "changeable": 0
-        },
-        {
             "key": "WexLunhuiDJ",
             "name": "🎼轮回┃舞曲🎼",
             "type": 3,
             "api": "csp_WexLunhuiDJGuard",
             "searchable": 1,
             "changeable": 0
-        },
-        {
-            "key": "看球",
-            "name": "🌐88┃体育🌐",
-            "type": 3,
-            "api": "csp_KanqiuGuard",
-            "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "瓜子看球",
-            "name": "🌐瓜子┃体育🌐",
-            "type": 3,
-            "api": "csp_WexGZsportGuard",
-            "searchable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "list"
-            }
         }
     ],
     "parses": [
