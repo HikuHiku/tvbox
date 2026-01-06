@@ -24,6 +24,24 @@
             "ext": "https://aisearch.cdn.bcebos.com/fileManager/40aicoLgDtklAyS8-ZZBrA/1767300502404G_ouRK.txt"
         },
         {
+            "key": "Wexconfig",
+            "name": "🐮通用类型┃配置中心🐮",
+            "type": 3,
+            "api": "csp_WexconfigGuard",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0
+        },
+        {
+            "key": "Wexokconfig",
+            "name": "🐮影视专用┃配置中心🐮",
+            "type": 3,
+            "api": "csp_WexokconfigGuard",
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0
+        },
+        {
             "key": "Wexhanxiaoquan",
             "name": "💥韩剧┃秒播💥",
             "type": 3,
@@ -118,6 +136,102 @@
             "api": "csp_WexYsjGuard",
             "searchable": 1,
             "changeable": 1
+        },
+        {
+            "key": "115",
+            "name": "💓我的┃115💓‍",
+            "type": 3,
+            "api": "csp_Wex115shareGuard",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 50,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "tianyi",
+            "name": "💓我的┃天逸💓‍",
+            "type": 3,
+            "api": "csp_WexWo189Guard",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 50,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "夸克",
+            "name": "💓我的┃夸克💓‍",
+            "type": 3,
+            "api": "csp_WexWoquarkpanGuard",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 50,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "优熙",
+            "name": "💓我的┃优熙💓‍",
+            "type": 3,
+            "api": "csp_WexWoucpanGuard",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 50,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "异动",
+            "name": "💓我的┃异动💓‍",
+            "type": 3,
+            "api": "csp_WexWoydpanGuard",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 50,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "WexWo123panGuard",
+            "name": "💓我的┃123💓‍",
+            "type": 3,
+            "api": "csp_WexWo123panGuard",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 50,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "xunlei",
+            "name": "💓我的┃讯蕾💓‍",
+            "type": 3,
+            "api": "csp_WexWoXunLeiPanGuard",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 50,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "baidu",
+            "name": "💓我的┃百度💓‍",
+            "type": 3,
+            "api": "csp_WexWoBaiduPanGuard",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 50,
+            "style": {
+                "type": "list"
+            }
         },
         {
             "key": "push_agent",
