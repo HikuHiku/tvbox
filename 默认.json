@@ -88,6 +88,14 @@
             "changeable": 1
         },
         {
+            "key": "新6V",
+            "name": "🛩️新6V┃P2P🛩",
+            "type": 3,
+            "api": "csp_WexXb6vGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
             "key": "Wexxifan",
             "name": "🤡稀饭┃动漫🤡",
             "type": 3,
@@ -112,10 +120,10 @@
             "changeable": 1
         },
         {
-            "key": "WexLunhuiDJ",
-            "name": "🎼轮回┃舞曲🎼",
+            "key": "push_agent",
+            "name": "推送",
             "type": 3,
-            "api": "csp_WexLunhuiDJGuard",
+            "api": "csp_PushGuard",
             "searchable": 1,
             "changeable": 0
         }
