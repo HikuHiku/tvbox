@@ -509,6 +509,19 @@
             "timeout": 10
         },
         {
+            "key": "爱听音乐",
+            "name": "🎧爱听┃音乐",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "sp": "AiMusic"
+            },
+            "timeout": 10
+        },
+        {
             "key": "世界听书",
             "name": "🎸世界┃听书",
             "type": 3,
