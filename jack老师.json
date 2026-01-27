@@ -774,6 +774,13 @@
             "timeout": 10
         },
         {
+            "name": "MIGU",
+            "type": 0,
+            "url": "http://127.0.0.1:9978/proxy?do=live&url=https://ds65.tv1288.xyz",
+            "playerType": 2,
+            "timeout": 10
+        },
+        {
             "name": "冰茶",
             "type": 0,
             "url": "http://127.0.0.1:9978/proxy?do=live&url=https%3A%2F%2Fbc.188766.xyz%2F%3Fip%3D%26mishitong%3Dtrue%26mima%3Dbingcha1130%26json%3Dtrue",
@@ -791,9 +798,12 @@
         {
             "name": "一起看",
             "type": 3,
-            "api": "csp_HuyaGuard",
+            "api": "csp_AweSomeGuard",
             "url": "yqk",
             "playerType": 2,
+            "ext": {
+                "sp": "Huya"
+            },
             "timeout": 10
         },
         {
