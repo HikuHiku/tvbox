@@ -522,6 +522,19 @@
             "timeout": 10
         },
         {
+            "key": "酷狗音乐",
+            "name": "🐕酷狗┃音乐",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "sp": "KuGou"
+            },
+            "timeout": 10
+        },
+        {
             "key": "世界听书",
             "name": "🎸世界┃听书",
             "type": 3,
