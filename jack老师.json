@@ -153,21 +153,6 @@
             "timeout": 10
         },
         {
-            "key": "鲸鱼弹幕版",
-            "name": "🐳鲸鱼┃弹幕",
-            "type": 3,
-            "api": "csp_AweSomeGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "filterable": 1,
-            "ext": {
-                "sp": "JingYu",
-                "danmu": true
-            },
-            "timeout": 10
-        },
-        {
             "key": "小猪弹幕版",
             "name": "🐖小猪┃弹幕",
             "type": 3,
@@ -198,8 +183,8 @@
             "timeout": 10
         },
         {
-            "key": "仓鼠弹幕版",
-            "name": "🐹仓鼠┃弹幕",
+            "key": "芬奇弹幕版",
+            "name": "🐹芬奇┃弹幕",
             "type": 3,
             "api": "csp_AweSomeGuard",
             "searchable": 1,
@@ -207,7 +192,7 @@
             "changeable": 0,
             "filterable": 1,
             "ext": {
-                "sp": "CangShu",
+                "sp": "FenQi",
                 "danmu": true
             },
             "timeout": 10
@@ -228,6 +213,36 @@
             "timeout": 10
         },
         {
+            "key": "小白弹幕版",
+            "name": "🍼小白┃弹幕",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "ext": {
+                "sp": "XiaoBai",
+                "danmu": true
+            },
+            "timeout": 10
+        },
+        {
+            "key": "汤圆弹幕版",
+            "name": "🍚汤圆┃弹幕",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "ext": {
+                "sp": "TangYuan",
+                "danmu": true
+            },
+            "timeout": 10
+        },
+        {
             "key": "木瓜弹幕版",
             "name": "🥑木瓜┃弹幕",
             "type": 3,
@@ -240,6 +255,22 @@
                 "sp": "AppFox",
                 "danmu": true,
                 "siteUrl": "http://www.yezitv.top"
+            },
+            "timeout": 10
+        },
+        {
+            "key": "紫金弹幕版",
+            "name": "🍇紫金┃弹幕",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "ext": {
+                "sp": "AppFox",
+                "danmu": true,
+                "siteUrl": "https://www.zjcvod.com"
             },
             "timeout": 10
         },
