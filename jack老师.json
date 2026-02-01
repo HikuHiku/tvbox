@@ -417,20 +417,6 @@
             "timeout": 10
         },
         {
-            "key": "yhdm",
-            "name": "🌸樱花┃动漫",
-            "type": 3,
-            "api": "csp_AweSomeGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "filterable": 1,
-            "ext": {
-                "sp": "YHDM"
-            },
-            "timeout": 15
-        },
-        {
             "key": "动漫巴士",
             "name": "🚌巴士┃动漫",
             "type": 3,
