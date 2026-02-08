@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "豆",
-            "name": "新增自动安装，新公众号【太太太硬了】",
+            "name": "修复所有，新公众号【太太太硬了】",
             "type": 3,
             "api": "csp_DouDouGuard",
             "indexs": 1,
