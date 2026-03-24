@@ -936,7 +936,9 @@
             ]
         }
     ],
-    "proxy": [],
+    "proxy": [
+        "file://TV/proxy.json"
+    ],
     "rules": [
         {
             "name": "cl",
