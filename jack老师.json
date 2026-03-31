@@ -563,6 +563,21 @@
             "timeout": 20
         },
         {
+            "key": "115分享",
+            "name": "🌷115┃分享",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "filterable": 0,
+            "indexs": 0,
+            "ext": {
+                "sp": "Pan115Share"
+            },
+            "timeout": 30
+        },
+        {
             "key": "csp_AListGuard",
             "name": "🦋AList",
             "type": 3,
