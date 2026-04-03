@@ -25,7 +25,7 @@
         },
         {
             "key": "追剧达人",
-            "name": "追剧达人",
+            "name": "追剧达人┃App",
             "type": 3,
             "api": "csp_AppV6",
             "playerType": 2,
@@ -33,7 +33,7 @@
         },
         {
             "key": "特狗",
-            "name": "特狗",
+            "name": "特狗┃App",
             "type": 3,
             "api": "csp_AppV6",
             "playerType": 2,
@@ -41,7 +41,7 @@
         },
         {
             "key": "小柚子",
-            "name": "小柚子",
+            "name": "小柚子┃App",
             "type": 3,
             "api": "csp_AppV6",
             "playerType": 2,
@@ -49,7 +49,7 @@
         },
         {
             "key": "大师兄",
-            "name": "大师兄",
+            "name": "大师兄┃App",
             "type": 3,
             "api": "csp_AppV6",
             "playerType": 2,
@@ -144,7 +144,7 @@
             "type": 3,
             "api": "csp_Qiji",
             "playerType": 2,
-            "ext": "7lj763gg402i794245238hjjg45j8295k5hji64882862l321l4215hkkg1l5g001i9k5ihkj6539l8j2208h380k5h21hk8lj2l7546kjh0igh2329j29kl67l85g13lkg1i5l3li2k312g97113g038kll1j7121h5gi6976ki97hlj7837gg73k03403l33"
+            "ext": "7lj763gg402i79425l239ljhg55099jiljhhj910il877129534l1ik9l1184k401g9g54gk8j5i9097751kh28kh9l211l2lk696110l0ggjlk0339j25j768855553lkl8l1g5i05018428357244jh6l0607k61h5l55j20j0k996hl977gl13g"
         },
         {
             "key": "星河",
@@ -168,7 +168,7 @@
             "type": 3,
             "api": "csp_Qiji",
             "playerType": 2,
-            "ext": "7lj763gg402i7942483l849kk10ljji4g6li98059ijj72225j5255l2k95g5i1h1g985ggj905j86ig3604gi80lgl30jk3hk637h53ghh085k83k9121g23jlk1915gig09glhl775217i9g443h49i3g51h3227k7gj367kk7iigl818k2lg6744i433j"
+            "ext": "7lj763gg402i7942483l849kk10ljji4g6li98059ijj72225j5255l2k95g5i1h1g985ggj905j86ig3604gi80lgl30jk3hk637h53ghh685k83k9121g23jlk1915gig09glhl775217i9g443h49i3g51h3227k7gj367kk7iigl818k2lg6744i433j"
         },
         {
             "key": "柠檬",
