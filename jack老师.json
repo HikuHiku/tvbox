@@ -463,6 +463,19 @@
             "timeout": 10
         },
         {
+            "key": "听悠听书",
+            "name": "🎤听悠┃听书",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "sp": "TingYou"
+            },
+            "timeout": 10
+        },
+        {
             "key": "少儿教育",
             "name": "📚少儿┃教育",
             "type": 3,
