@@ -18,24 +18,6 @@
             }
         },
         {
-            "key": "弹幕",
-            "name": "🅿弹幕┃刷新自动启动",
-            "type": 3,
-            "api": "csp_GoConfigAmnsr",
-            "jar": "https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"
-        },
-        {
-            "key": "ConfigCenter",
-            "name": "🅿网盘配置中心",
-            "type": 3,
-            "api": "csp_ConfigCenter",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": {
-                "commonConfig": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
-            }
-        },
-        {
             "key": "csp_GuaZi",
             "name": "🍉瓜子",
             "type": 3,
@@ -421,110 +403,6 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"
-        },
-        {
-            "name": "🐲漫剧",
-            "key": "MjHggg",
-            "type": 3,
-            "api": "csp_HgggAmns",
-            "playerType": 2,
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "comic_series",
-            "jar": "https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"
-        },
-        {
-            "name": "😈短剧",
-            "key": "DjHggg",
-            "type": 3,
-            "api": "csp_HgggAmns",
-            "playerType": 2,
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "short_play",
-            "jar": "https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"
-        },
-        {
-            "name": "🍭豪堪短剧",
-            "key": "HHkk",
-            "type": 3,
-            "api": "csp_HHkkAmns",
-            "playerType": 2,
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "genre": "shortdrama",
-            "jar": "https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"
-        },
-        {
-            "name": "🛸盒马短剧",
-            "key": "Hema",
-            "type": 3,
-            "api": "csp_HemaAmns",
-            "playerType": 2,
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "genre": "shortdrama",
-            "jar": "https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"
-        },
-        {
-            "name": "🧸拜拜短剧",
-            "key": "Bddj",
-            "type": 3,
-            "api": "csp_BddjAmns",
-            "playerType": 2,
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "genre": "shortdrama",
-            "jar": "https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"
-        },
-        {
-            "name": "🎀围观短剧",
-            "key": "Wgdj",
-            "type": 3,
-            "api": "csp_WgdjAmns",
-            "playerType": 2,
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "genre": "shortdrama",
-            "jar": "https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"
-        },
-        {
-            "name": "🐱喵喵短剧",
-            "key": "Qmdj",
-            "type": 3,
-            "api": "csp_QmdjAmns",
-            "playerType": 2,
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "genre": "shortdrama",
-            "jar": "https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"
-        },
-        {
-            "name": "⭐星星短剧",
-            "key": "Xydj",
-            "type": 3,
-            "api": "csp_XydjAmns",
-            "playerType": 2,
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "genre": "shortdrama",
             "jar": "https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"
         },
         {
