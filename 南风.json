@@ -229,22 +229,6 @@
             }
         },
         {
-            "key": "茶杯狐",
-            "name": "🍵茶杯狐",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "简介": "【广告勿信】+&&",
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "数组": "lazyload&&</a>",
-                "标题": "+title=\"&&\"",
-                "图片": "data-original=\"&&\"",
-                "分类url": "https://www.xmhxdq.com/vodshow/{cateId}--------{catePg}---.html",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$36#"
-            }
-        },
-        {
             "key": "永乐",
             "name": "🍰永乐",
             "type": 3,
@@ -372,19 +356,6 @@
             "quickSearch": 1,
             "changeable": 1,
             "jar": "https://jihulab.com/yoursmile3/TVBox/-/raw/main/custom_spider.jar"
-        },
-        {
-            "key": "csp_Kanqiu",
-            "name": "⚾看球",
-            "type": 3,
-            "api": "csp_Kanqiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "gridview": 3,
-            "style": {
-                "type": "list"
-            }
         },
         {
             "key": "csp_Kugou",
