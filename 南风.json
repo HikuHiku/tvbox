@@ -261,18 +261,6 @@
             }
         },
         {
-            "key": "csp_Ikanbot",
-            "name": "👾Ikanbot",
-            "type": 3,
-            "api": "csp_Ikanbot",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "commonConfig": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json"
-            }
-        },
-        {
             "key": "csp_Dygang",
             "name": "🧲电影港",
             "type": 3,
