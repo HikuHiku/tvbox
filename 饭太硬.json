@@ -372,6 +372,12 @@
             "playerType": 2
         },
         {
+            "name": "世界杯",
+            "type": 0,
+            "url": "http://82.156.243.185:33389/fwc.m3u",
+            "playerType": 2
+        },
+        {
             "name": "虎牙一起看",
             "type": 0,
             "url": "https://sub.ottiptv.cc/huyayqk.m3u",
