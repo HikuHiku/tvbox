@@ -15,7 +15,7 @@
         },
         {
             "key": "Doubana",
-            "name": "🐮【更新日期:20260601】🐮",
+            "name": "🐮【更新日期:20260619】🐮",
             "type": 3,
             "api": "csp_DoubanGuard",
             "searchable": 0,
@@ -104,30 +104,6 @@
             "api": "csp_WexXb6vGuard",
             "searchable": 1,
             "changeable": 0
-        },
-        {
-            "key": "Wexxifan",
-            "name": "🤡稀饭┃动漫🤡",
-            "type": 3,
-            "api": "csp_WexxifanGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "WexDm84",
-            "name": "🤡巴士┃动漫🤡",
-            "type": 3,
-            "api": "csp_WexYingGuard",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "WexYsj",
-            "name": "🤡异界┃动漫🤡",
-            "type": 3,
-            "api": "csp_WexYsjGuard",
-            "searchable": 1,
-            "changeable": 1
         },
         {
             "key": "push_agent",
