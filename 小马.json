@@ -52,6 +52,34 @@
             "timeout": 25
         },
         {
+            "key": "AQY",
+            "name": "爱奇艺",
+            "type": 3,
+            "api": "https://szyyds.cn/js/6F02.js",
+            "ext": "https://szyyds.cn/js/3c16.js"
+        },
+        {
+            "key": "YK",
+            "name": "优酷视频",
+            "type": 3,
+            "api": "https://szyyds.cn/js/6F02.js",
+            "ext": "https://szyyds.cn/js/8aae.js"
+        },
+        {
+            "key": "TX",
+            "name": "腾讯视频",
+            "type": 3,
+            "api": "https://szyyds.cn/js/6F02.js",
+            "ext": "https://szyyds.cn/js/7294.js"
+        },
+        {
+            "key": "MG",
+            "name": "🐬芒果TV",
+            "type": 3,
+            "api": "https://szyyds.cn/js/6F02.js",
+            "ext": "https://szyyds.cn/js/930ec.js"
+        },
+        {
             "key": "电影天堂",
             "name": "️天堂┃采集",
             "type": 1,
