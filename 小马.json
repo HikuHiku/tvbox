@@ -35,7 +35,7 @@
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://szyyds.cn/tv/js/app.json",
+            "ext": "https://szyyds.cn/js/app.json",
             "jar": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/custom_spider.jar"
         },
         {
@@ -74,7 +74,7 @@
         },
         {
             "key": "MG",
-            "name": "🐬芒果TV",
+            "name": "芒果TV",
             "type": 3,
             "api": "https://szyyds.cn/js/6F02.js",
             "ext": "https://szyyds.cn/js/930ec.js"
