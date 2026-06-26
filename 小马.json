@@ -1,7 +1,7 @@
 {
     "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/HikuHiku/tvbox/main/jar/小马.jar",
     "wallpaper": "https://szyyds.cn/api.php",
-    "logo": "https://szyyds.cn/2.gif",
+    "logo": "https://szyyds.cn/1.png",
     "sites": [
         {
             "key": "DouBan",
@@ -78,6 +78,13 @@
             "type": 3,
             "api": "https://szyyds.cn/js/6F02.js",
             "ext": "https://szyyds.cn/js/930ec.js"
+        },
+        {
+            "key": "huban",
+            "name": "弹幕|小窗",
+            "type": 3,
+            "jar": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/jar/HubanTC.jar",
+            "api": "csp_Huban"
         },
         {
             "key": "电影天堂",
@@ -681,14 +688,21 @@
     ],
     "lives": [
         {
-            "name": "小马",
+            "name": "手动更新",
             "type": 0,
-            "url": "http://m.szyyds.cn/api.php?token=b733001183e6139591b7d89425b366a3",
+            "url": "https://z.szyyds.cn/tv/live/x.txt",
             "playerType": 2,
             "timeout": 10
         },
         {
-            "name": "小马2",
+            "name": "需有效token播放",
+            "type": 0,
+            "url": "http://m.szyyds.cn/api.php?token=064ecd95a3feefeb81b54f8ec206c14d",
+            "playerType": 2,
+            "timeout": 10
+        },
+        {
+            "name": "自动更新",
             "type": 0,
             "url": "https://z.szyyds.cn/iptv",
             "playerType": 2,
