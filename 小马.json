@@ -690,14 +690,14 @@
         {
             "name": "手动更新",
             "type": 0,
-            "url": "https://z.szyyds.cn/tv/live/x.txt",
+            "url": "https://szyyds.cn/tv/live/x.txt",
             "playerType": 2,
             "timeout": 10
         },
         {
-            "name": "需有效token播放",
+            "name": "有效期27年",
             "type": 0,
-            "url": "http://m.szyyds.cn/api.php?token=064ecd95a3feefeb81b54f8ec206c14d",
+            "url": "http://m.szyyds.cn/api.php?token=8664f352657e8b13585bcf0f84fc3512",
             "playerType": 2,
             "timeout": 10
         },
@@ -705,6 +705,13 @@
             "name": "自动更新",
             "type": 0,
             "url": "https://z.szyyds.cn/iptv",
+            "playerType": 2,
+            "timeout": 10
+        },
+        {
+            "name": "音乐所",
+            "type": 0,
+            "url": "https://szyyds.cn/tv/live/yy.txt",
             "playerType": 2,
             "timeout": 10
         },
