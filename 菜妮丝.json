@@ -1,7 +1,7 @@
 {
     "菜妮丝": "https://菜妮丝.top",
     "友情提醒": "接口完全免费，切勿付费购买。",
-    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/HikuHiku/tvbox/main/jar/菜妮丝.jar",
+    "spider": "https://cdn.jsdelivr.net/gh/HikuHiku/tvbox/jar/菜妮丝.jar",
     "logo": "https://q2.qlogo.cn/headimg_dl?dst_uin=524187805&spec=100",
     "wallpaper": "https://api.hanximeng.com/ranimg/?size=m",
     "sites": [

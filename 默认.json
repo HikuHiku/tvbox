@@ -1,10 +1,10 @@
 {
-    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/HikuHiku/tvbox/main/jar/饭太硬.jar",
+    "spider": "https://cdn.jsdelivr.net/gh/HikuHiku/tvbox/jar/饭太硬.jar",
     "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
     "sites": [
         {
             "key": "点我切源",
-            "name": "去【太太太硬了】领取嘟嘟盘免费容量",
+            "name": "修复简易安装,【太太太硬了】领取嘟嘟盘免费容量",
             "type": 3,
             "api": "csp_DouDouGuard",
             "indexs": 1,
@@ -14,33 +14,14 @@
         },
         {
             "key": "seed",
-            "name": "💡聚剧剧┃四盘",
+            "name": "💡聚剧┃四盘",
             "type": 3,
             "api": "csp_SeedhubGuard",
             "ext": "5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
-            "indexs": 0,
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "ZPan",
-            "name": "🎈聚盘搜┃四盘",
-            "type": 3,
-            "api": "csp_S_zpsGuard",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": {
-                "siteUrl": "http://107.173.211.148/"
-            },
-            "indexs": 0,
-            "style": {
-                "type": "list"
-            }
+            "indexs": 0
         },
         {
             "key": "光影",
@@ -263,6 +244,38 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0
+        },
+        {
+            "key": "ZPan",
+            "name": "🎈盘搜┃四盘",
+            "type": 3,
+            "api": "csp_S_zpsGuard",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "siteUrl": "http://107.173.211.148/"
+            },
+            "indexs": 0,
+            "style": {
+                "type": "list"
+            }
+        },
+        {
+            "key": "JPan",
+            "name": "🦋易搜┃四盘",
+            "type": 3,
+            "api": "csp_S_zpsGuard",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "siteUrl": "https://so.252035.xyz/"
+            },
+            "indexs": 0,
+            "style": {
+                "type": "list"
+            }
         },
         {
             "key": "BpanSo",
