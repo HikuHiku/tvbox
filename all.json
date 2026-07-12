@@ -2,23 +2,23 @@
     "urls": [
         {
             "name": "默认",
-            "url": "https://cdn.jsdelivr.net/gh/HikuHiku/tvbox/默认.json"
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/HikuHiku/tvbox/main/默认.json"
         },
         {
             "name": "饭太硬",
-            "url": "https://cdn.jsdelivr.net/gh/HikuHiku/tvbox/饭太硬.json"
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/HikuHiku/tvbox/main/饭太硬.json"
         },
         {
             "name": "王二小",
-            "url": "https://cdn.jsdelivr.net/gh/HikuHiku/tvbox/王二小.json"
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/HikuHiku/tvbox/main/王二小.json"
         },
         {
             "name": "菜妮丝",
-            "url": "https://cdn.jsdelivr.net/gh/HikuHiku/tvbox/菜妮丝.json"
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/HikuHiku/tvbox/main/菜妮丝.json"
         },
         {
             "name": "小马",
-            "url": "https://cdn.jsdelivr.net/gh/HikuHiku/tvbox/小马.json"
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/HikuHiku/tvbox/main/小马.json"
         }
     ]
 }
