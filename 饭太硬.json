@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "点我切源",
-            "name": "<8.14更新>修复听书、ZB",
+            "name": "<8.16更新> 修复哔哔、听书、ZB",
             "type": 3,
             "api": "csp_DouDouGuard",
             "indexs": 1,
@@ -57,7 +57,7 @@
         },
         {
             "key": "海绵",
-            "name": "⏮️海绵┃不卡",
+            "name": "🍄海绵┃不卡",
             "type": 3,
             "api": "csp_HmysGuard",
             "timeout": 10,
@@ -371,12 +371,11 @@
             "playerType": 2
         },
         {
-            "name": "develop",
+            "name": "综合直播",
             "type": 0,
-            "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt",
-            "playerType": 2,
-            "epg": "http://diyp5.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
+            "url": "http://193.123.86.190:14888/TV/iptv.php",
+            "ua": "bingcha/1.1 (mianfeifenxiang)",
+            "playerType": 2
         },
         {
             "name": "范明明（需开启V6网络）",
