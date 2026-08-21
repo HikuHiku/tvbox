@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "点我切源",
-            "name": "<8.16更新> 修复哔哔、听书、ZB",
+            "name": "<8.19更新> 修复海绵  厂长",
             "type": 3,
             "api": "csp_DouDouGuard",
             "indexs": 1,
@@ -57,7 +57,7 @@
         },
         {
             "key": "海绵",
-            "name": "🍄海绵┃不卡",
+            "name": "🐬海绵┃不卡",
             "type": 3,
             "api": "csp_HmysGuard",
             "timeout": 10,
@@ -386,7 +386,7 @@
         {
             "name": "虎牙一起看",
             "type": 0,
-            "url": "https://file.icve.com.cn/file_doc/946/41/ECB0A5FBED1D8C4D4E049E95DB9F756F.m3u",
+            "url": "https://sub.ottiptv.cc/huyayqk.m3u",
             "playerType": 2,
             "timeout": 10,
             "ua": "okHttp/Mod-1.5.0.0"
@@ -394,7 +394,7 @@
         {
             "name": "斗鱼一起看",
             "type": 0,
-            "url": "https://file.icve.com.cn/file_doc/254/346/3FB56B2C49DF92B3252352FBE5CD00F1.m3u",
+            "url": "https://sub.ottiptv.cc/douyuyqk.m3u",
             "playerType": 2,
             "timeout": 10,
             "ua": "okHttp/Mod-1.5.0.0"
@@ -410,7 +410,7 @@
         {
             "name": "YY轮播",
             "type": 0,
-            "url": "https://file.icve.com.cn/file_doc/178/700/2C9AF1F98DBC1523826C0CD4DA8D8947.m3u",
+            "url": "https://sub.ottiptv.cc/yylunbo.m3u",
             "playerType": 2,
             "timeout": 10,
             "ua": "okHttp/Mod-1.5.0.0"
