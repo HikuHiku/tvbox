@@ -4,7 +4,7 @@
     "sites": [
         {
             "key": "点我切源",
-            "name": "<8.19更新> 修复海绵  厂长",
+            "name": "<8.23更新> 修复弹幕  海绵",
             "type": 3,
             "api": "csp_DouDouGuard",
             "indexs": 1,
