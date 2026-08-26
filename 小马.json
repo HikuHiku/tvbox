@@ -52,6 +52,17 @@
             "timeout": 25
         },
         {
+            "key": "dbokutv_key",
+            "name": "🐼｜独播库",
+            "type": 3,
+            "api": "https://files.catbox.moe/gd1tos.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+        {
             "key": "电影天堂",
             "name": "影视 | 电影天堂",
             "type": 1,
@@ -841,6 +852,16 @@
             "name": "羽路均沾",
             "type": 0,
             "url": "https://ylu.cc/index.php?url="
+        },
+        {
+            "name": "nnxv",
+            "type": 0,
+            "url": "https://jx.nnxv.cn/tv.php?url="
+        },
+        {
+            "name": "okjx",
+            "type": 0,
+            "url": "https://okjx.cc/?url="
         },
         {
             "name": "999",

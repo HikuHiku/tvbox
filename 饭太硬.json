@@ -3,16 +3,6 @@
     "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
     "sites": [
         {
-            "key": "点我切源",
-            "name": "<8.23更新> 修复弹幕  海绵",
-            "type": 3,
-            "api": "csp_DouDouGuard",
-            "indexs": 1,
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
             "key": "seed",
             "name": "💡聚剧┃四盘",
             "type": 3,
@@ -231,14 +221,16 @@
             "changeable": 1
         },
         {
-            "key": "Anime1",
-            "name": "🐾日本┃动漫",
+            "key": "多多",
+            "name": "🏀多多┃回放",
             "type": 3,
-            "api": "csp_Anime1Guard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
+            "api": "csp_DoubaoGuard",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            }
         },
         {
             "key": "虎牙js",
