@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://picsum.photos/1280/720",
-    "spider": "https://gh-proxy.com/raw.githubusercontent.com/HikuHiku/tvbox/main/jar/CandyMu.jar",
+    "spider": "https://gh-proxy.com/raw.githubusercontent.com/CandyMuj/ResourceInterface/main/TVBox/candymuj.jar;md5;ec8ab1bcb078290e4f5a0d1449393a69",
     "lives": [
         {
             "name": "南风直播源",
