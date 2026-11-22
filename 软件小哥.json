@@ -1,5 +1,5 @@
 {
-    "spider": "./svip.jar",
+    "spider": "https://cdn.jsdelivr.net/gh/HikuHiku/tvbox/jar/软件小哥.jar",
     "wallpaper": "https://wp.upx8.com/api.php",
     "logo": "./logo.gif",
     "sites": [
