@@ -1,1 +1,1 @@
-https://gh-proxy.com/raw.githubusercontent.com/HikuHiku/tvbox/main/all.json
+https://cdn.jsdelivr.net/gh/HikuHiku/tvbox/all.json
