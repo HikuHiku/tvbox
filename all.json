@@ -2,23 +2,23 @@
     "urls": [
         {
             "name": "默认",
-            "url": "https://cdn.jsdelivr.net/gh/HikuHiku/tvbox/默认.json"
+            "url": "https://raw.githubusercontent.com/HikuHiku/tvbox/refs/heads/main/默认.json"
         },
         {
             "name": "饭太硬",
-            "url": "https://cdn.jsdelivr.net/gh/HikuHiku/tvbox/饭太硬.json"
+            "url": "https://raw.githubusercontent.com/HikuHiku/tvbox/refs/heads/main/饭太硬.json"
         },
         {
             "name": "软件小哥",
-            "url": "https://cdn.jsdelivr.net/gh/HikuHiku/tvbox/软件小哥.json"
+            "url": "https://raw.githubusercontent.com/HikuHiku/tvbox/refs/heads/main/软件小哥.json"
         },
         {
             "name": "菜妮丝",
-            "url": "https://cdn.jsdelivr.net/gh/HikuHiku/tvbox/菜妮丝.json"
+            "url": "https://raw.githubusercontent.com/HikuHiku/tvbox/refs/heads/main/菜妮丝.json"
         },
         {
             "name": "小马",
-            "url": "https://cdn.jsdelivr.net/gh/HikuHiku/tvbox/小马.json"
+            "url": "https://raw.githubusercontent.com/HikuHiku/tvbox/refs/heads/main/小马.json"
         }
     ]
 }
