@@ -3,6 +3,16 @@
     "wallpaper": "https://动态壁纸.饭.eu.org/",
     "sites": [
         {
+            "key": "点我切源",
+            "name": "片单┃ <修复夸父扫码>",
+            "type": 3,
+            "api": "csp_DouDouGuard",
+            "indexs": 1,
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
+        {
             "key": "MDrive",
             "name": "🗂我的云盘┃配置",
             "type": 3,
@@ -16,36 +26,6 @@
             "ext": {
                 "Cloud-drive": "tvfan/Cloud-drive.txt"
             }
-        },
-        {
-            "key": "alllive",
-            "name": "🎮一直播┃直播",
-            "type": 3,
-            "api": "csp_AllliveGuard",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "timeout": 15,
-            "playerType": "2",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "uqGL1fpJNAUN8ORQgIPD+b6l+CzC2t8="
-        },
-        {
-            "key": "爱刷",
-            "name": "♻️爱刷┃短视",
-            "type": 3,
-            "api": "csp_SsspGuard",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "ext": {}
         },
         {
             "key": "seed",
@@ -349,6 +329,18 @@
             "indexs": 0,
             "style": {
                 "type": "list"
+            }
+        },
+        {
+            "key": "YpanSo",
+            "name": "🐌盘她┃夸父",
+            "type": 3,
+            "api": "csp_YpanSoGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": {
+                "Cloud-drive": "tvfan/Cloud-drive.txt"
             }
         },
         {
